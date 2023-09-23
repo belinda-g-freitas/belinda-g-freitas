@@ -1,7 +1,7 @@
 <!-- ![](header.jpg) -->
 <!--### Hi there 👋, I'm Bélinda Gloria E. A. Freitas, Bélinda for short.-->
   <h1 align="center">
-    <b>Hi there, I'm <a href="https://github.com/belinda-g-freitas">Bélinda</a> 👋🏻</b>
+    Hi there, I'm <a href="https://github.com/belinda-g-freitas">Bélinda</a> 👋🏻
   </h1>
 
 ## 💡 Who's that ?
