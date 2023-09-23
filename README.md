@@ -24,9 +24,8 @@ I wanted to learn software engineering after high school because I loved and sti
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=belinda-g-freitas&custom_title=GitHub%20Stats&show_icons=true&theme=github_dark&&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage"/> 
     <!-- <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wei&custom_title=GitHub%20Stats&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide_border=true" /> -->
   </a>
-  <br/>
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belinda-g-freitas&layout=donut" /> 
-</p>
+</div>
 
 <!-- [![My GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=belinda-g-freitas&show_icons=true&theme=dark&hide=issues,contribs&show=reviews,prs_merged,prs_merged_percentage#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![My GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=belinda-g-freitas&show_icons=true&theme=default&hide=issues,contribs&show=reviews,prs_merged,prs_merged_percentage#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
