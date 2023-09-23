@@ -1,4 +1,4 @@
-![](header.jpg)
+<!-- ![](header.jpg) -->
 <!--### Hi there 👋, I'm Bélinda Gloria E. A. Freitas, Bélinda for short.-->
   <h1 align="center">
     <b>Hi there, I'm <a href="https://github.com/belinda-g-freitas">Bélinda</a> 👋🏻</b>
@@ -8,7 +8,7 @@
 I'm software engineer and I'm focused on mobile apps developement now by I also work on desktop apps. Recently I found myself liking APIs developement, sometimes I even work on web apps.
 
 
-## 💬 like to talk about
+## 💬 Like to talk about
 - Mobile apps
 - Desktop apps
 - Flutter & Dart
@@ -21,7 +21,7 @@ I wanted to learn software engineering after high school because I loved and sti
 
 <div align="center">
   <a href="https://github.com/belinda-g-freitas">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=belinda-g-freitas&custom_title=GitHub%20Stats&show_icons=true&theme=github_dark&&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage"/>
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=belinda-g-freitas&custom_title=GitHub%20Stats&show_icons=true&theme=github_dark&&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage"/> 
     <!-- <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wei&custom_title=GitHub%20Stats&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide_border=true" /> -->
   </a>
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belinda-g-freitas&layout=donut" /> 
