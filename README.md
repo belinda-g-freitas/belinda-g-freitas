@@ -7,10 +7,10 @@
 ## 💡 Who's that ?
 I'm software engineer and I'm focused on mobile apps developement now by I also work on desktop apps. Recently I found myself liking APIs developement, sometimes I even work on web apps.
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/belinda-g-freitas">
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=belinda-g-freitas&custom_title=GitHub%20Stats&show_icons=true&theme=github_dark&&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage"/> 
-</div>
+</div> -->
 
 ## 💬 Like to talk about
 - Mobile apps
