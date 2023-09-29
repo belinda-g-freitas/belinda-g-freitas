@@ -1,0 +1,29 @@
+name: Update readme
+
+on:
+  schedule:
+    # Run at 5 pm UTC every day
+    - cron: '0 17 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate 3D contribution profile
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          MAX_REPOS: 200
+          # SETTING_JSON: ./3d-profile-settings.json
+      # - run: mv ./profile-3d-contrib/* ./ && rmdir profile-3d-contrib
+      - name: Add & Commit
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "Update readme daily"
+          git push
