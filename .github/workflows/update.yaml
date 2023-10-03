@@ -20,11 +20,12 @@ jobs:
           MAX_REPOS: 200
           # SETTING_JSON: ./3d-profile-settings.json
       # - run: mv ./profile-3d-contrib/* ./ && rmdir profile-3d-contrib
+      # git pull --rebase 
       - name: Add & Commit
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
           git commit -m "Update readme daily"
-          git pull --rebase
+          
           git push
