@@ -9,15 +9,18 @@ I'm software engineer and I'm focused on mobile apps developement now by I also 
 
 <!-- <div align="center">
   <a href="https://github.com/belinda-g-freitas">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=belinda-g-freitas&custom_title=GitHub%20Stats&show_icons=true&theme=github_dark&&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage"/> 
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=belinda-g-freitas&custom_title=GitHub%20Stats&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage"/> 
 </div> -->
 
 ## 💬 Like to talk about
-- Mobile apps
+- Mobile apps developement
+- Node.js
 - Desktop apps
 - Flutter & Dart
 - Postman
 - API integration
+- Video games
+- Food and travel
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
@@ -28,13 +31,7 @@ I wanted to learn software engineering after high school because I loved and sti
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belinda-g-freitas&layout=donut" /> 
 </div> -->
 
-## Favorite quote of mine
-> Once you stop learning, you start dying
-— Albert Einstein
-
 <!-- 
----
-
 <p align="center">
   <a href="https://github.com/belinda-g-freitas'">
     <img src="https://img.shields.io/badge/github-belinda-g-freitas?logo=github&logoColor=white&style=flat-square" />
