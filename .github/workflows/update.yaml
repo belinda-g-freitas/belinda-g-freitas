@@ -3,7 +3,9 @@ name: Update readme
 on:
   schedule:
     # Run at 5 pm UTC every day
-    - cron: '0 17 * * *'
+    # - cron: '0 17 * * *'
+    # Run every 24 hours
+    - cron: "0 */24 * * *"
   workflow_dispatch:
 
 jobs:
