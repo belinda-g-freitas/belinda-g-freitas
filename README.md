@@ -5,7 +5,7 @@
   </h1>
 
 ## 💡 Who's that ?
-I'm software engineer and I'm focused on mobile apps developement now by I also work on desktop apps. Recently I found myself liking APIs developement, sometimes I even work on web apps.
+I'm software engineer and I'm focused on mobile apps developement now but I also work on desktop apps. Recently I found myself liking APIs developement, sometimes I even work on web apps.
 
 <!-- <div align="center">
   <a href="https://github.com/belinda-g-freitas">
