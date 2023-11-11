@@ -13,7 +13,7 @@ I'm software engineer and I'm focused on mobile apps developement now but I also
 </div> -->
 
 ## 💬 Like to talk about
-- Mobile apps developement
+- Mobile apps development
 - Node.js
 - Desktop apps
 - Flutter & Dart
