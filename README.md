@@ -31,12 +31,13 @@ I wanted to learn software engineering after high school because I loved and sti
   <a href="https://www.linkedin.com/in/belinda-g-freitas" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="https://stackoverflow.com/users/17637096/belinda-g-freitas" target="_blank"><img alt="StackOverflow" src="https://img.shields.io/badge/stackoverflow-%2312100E.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
 </p>
-<div align="center">
+<div >
   <!-- most used languages -->
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belinda-g-freitas&layout=compact&langs_count=12" />
+  <img alt="Top Langs" height=240 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belinda-g-freitas&layout=compact&langs_count=12" />
   <!-- stats -->
-  <!-- <a href="https://github.com/belinda-g-freitas">
-    <img alt="Bélinda's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=belinda-g-freitas&custom_title=GitHub%20Stats&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage"/> -->
+  <a href="https://github.com/belinda-g-freitas">
+    <img alt="Bélinda's GitHub Stats" height=240 align="center" src="https://github-readme-stats.vercel.app/api?username=belinda-g-freitas&custom_title=GitHub%20Stats&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage"/>
 </div>
+<!-- [![Bélinda's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=belinda_g_freitas)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
