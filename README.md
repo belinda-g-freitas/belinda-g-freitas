@@ -36,7 +36,7 @@ I wanted to learn software engineering after high school because I loved and sti
   <img alt="Top Langs" height=240 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belinda-g-freitas&layout=compact&langs_count=12" />
   <!-- stats -->
   <a href="https://github.com/belinda-g-freitas">
-    <img alt="Bélinda's GitHub Stats" height=240 align="center" src="https://github-readme-stats.vercel.app/api?username=belinda-g-freitas&custom_title=GitHub%20Stats&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage"/>
+    <img alt="Bélinda's GitHub Stats" height=240 align="center" src="https://github-readme-stats-belinda-g-freitas.vercel.app/api?username=belinda-g-freitas&custom_title=GitHub%20Stats&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage"/>
 </div>
 <!-- [![Bélinda's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=belinda_g_freitas)](https://github.com/anuraghazra/github-readme-stats) -->
 
