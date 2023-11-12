@@ -5,10 +5,6 @@
 
 I'm software engineer and I'm focused on mobile apps developement now but I also work on desktop apps. Recently I found myself liking APIs developement, sometimes I even work on web apps.
 
-<!-- <div align="center">
-  <a href="https://github.com/belinda-g-freitas">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=belinda-g-freitas&custom_title=GitHub%20Stats&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage"/> 
-</div> -->
 
 ## 💬 Like to talk about
 - Mobile apps development
@@ -31,13 +27,20 @@ I wanted to learn software engineering after high school because I loved and sti
   <a href="https://www.linkedin.com/in/belinda-g-freitas" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="https://stackoverflow.com/users/17637096/belinda-g-freitas" target="_blank"><img alt="StackOverflow" src="https://img.shields.io/badge/stackoverflow-%2312100E.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
 </p>
+<!-- stats -->
 <div >
   <!-- most used languages -->
   <img alt="Top Langs" height=240 align="center" src="https://github-readme-stats-belinda-g-freitas.vercel.app/api/top-langs/?username=belinda-g-freitas&layout=compact&langs_count=12" />
-  <!-- stats -->
+  <!-- github stats -->
   <a href="https://github.com/belinda-g-freitas">
-    <img alt="Bélinda's GitHub Stats" height=240 align="center" src="https://github-readme-stats-belinda-g-freitas.vercel.app/api?username=belinda-g-freitas&custom_title=GitHub%20Stats&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage"/>
+    <img alt="Bélinda's GitHub Stats" height=240 align="center" src="https://github-readme-stats-belinda-g-freitas.vercel.app/api?username=belinda-g-freitas&custom_title=GitHub%20Stats&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true&show=prs_merged,&hide=stars,issues"/>
 </div>
-<!-- [![Bélinda's WakaTime stats](https://github-readme-stats-belinda-g-freitas.vercel.app/api/wakatime?username=belinda_g_freitas)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/belinda-g-freitas/count.svg" />
+</p>
+
+[![Bélinda's WakaTime stats](https://github-readme-stats-belinda-g-freitas.vercel.app/api/wakatime?username=belinda_g_freitas)](https://github.com/belinda-g-freitas/github-readme-stats)
 
 
