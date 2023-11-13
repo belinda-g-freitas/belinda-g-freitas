@@ -33,20 +33,20 @@ I wanted to do software engineering after high school because I loved and still 
 </p>
 </br>
 <!-- stats -->
-<div>
+<!-- <div> -->
   <!-- most used languages -->
-  <a href="https://github.com/belinda-g-freitas">
+<!--   <a href="https://github.com/belinda-g-freitas">
     <img alt="Top Langs" height=240 align="center" src="https://github-readme-stats-belinda-g-freitas.vercel.app/api/top-langs/?username=belinda-g-freitas&layout=compact&langs_count=12" />
-  </a>
+  </a> -->
   <!-- github stats -->
-  <a href="https://github.com/belinda-g-freitas">
+<!--   <a href="https://github.com/belinda-g-freitas">
     <img alt="Bélinda's GitHub Stats" height=240 align="center" src="https://github-readme-stats-belinda-g-freitas.vercel.app/api?username=belinda-g-freitas&custom_title=GitHub%20Stats&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true&show=prs_merged,&hide=stars,issues"/>
-  </a>
-</div>
+  </a> -->
+<!-- </div> -->
 </br>
 <b>Visitor count</b>
 <img src="https://profile-counter.glitch.me/belinda-g-freitas/count.svg" />
 
-[![Bélinda's WakaTime stats](https://github-readme-stats-belinda-g-freitas.vercel.app/api/wakatime?username=belinda_g_freitas)](https://github.com/belinda-g-freitas/github-readme-stats)
+<!-- [![Bélinda's WakaTime stats](https://github-readme-stats-belinda-g-freitas.vercel.app/api/wakatime?username=belinda_g_freitas)](https://github.com/belinda-g-freitas/github-readme-stats) -->
 
 
