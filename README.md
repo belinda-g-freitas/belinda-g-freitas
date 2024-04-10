@@ -25,6 +25,9 @@ I'm software engineer and I'm focused on mobile apps development now but I also 
 ## 🤡 Fun fact about me
 I wanted to do software engineering after high school because I loved and still love playing video games, so I hoped that I could make my own games (with my own crazy features); but at the end I figured out that developing video games would tire my eyes twice (developping and then playing), and I probably won't be so excited to play my own games since I would have gotten accustomed to them during the dev proccess. So, at the end I decided to be mobile dev because it is my second favorite topic.
 
+
+[![My Stack Overflow Stats](https://so-stats.vercel.app/api?user=17637096)](https://github.com/kurt-liao/so-stats)
+
 <!-- socials -->
 <p> 
   <a href="https://x.com/B_GloriaFreitas" target="_blank"><img alt="X" src="https://img.shields.io/badge/x-%2312100E.svg?&style=for-the-badge&logo=x&logoColor=white&" /></a> 
