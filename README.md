@@ -31,7 +31,7 @@ I'm software engineer and I'm focused on mobile apps development now but I also 
 I wanted to do software engineering after high school because I loved and still love playing video games, so I hoped that I could make my own games (with my own crazy features); but at the end I figured out that developing video games would tire my eyes twice (developping and then playing), and I probably won't be so excited to play my own games since I would have gotten accustomed to them during the dev proccess. So, at the end I decided to be mobile dev because it is my second favorite topic.
 
 
-[![roadmap.sh](https://roadmap.sh/card/wide/65327fe7b5d7a4eb01ea5e2e?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/65327fe7b5d7a4eb01ea5e2e?variant=light&roadmaps=software-architect%2Cflutter%2Cnodejs%2Cbackend)](https://roadmap.sh) 
 
 
 [![My Stack Overflow Stats](https://so-stats.vercel.app/api?user=17637096)](https://github.com/kurt-liao/so-stats)
