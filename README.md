@@ -26,7 +26,7 @@ I'm software engineer and I'm focused on mobile apps development now but I also 
 </br>
 
 <!-- ![](./profile-3d-contrib/profile-gitblock.svg) -->
-<img src="./profile-3d-contrib/profile-gitblock.svg" alt="Profile" style="width:50%; height:auto;" />
+<img src="./profile-3d-contrib/profile-gitblock.svg" alt="Profile" style="width:70%; height:auto;" />
 
 </br>
 
