@@ -43,6 +43,7 @@ I wanted to do software engineering after high school because I loved and still 
   <a href="https://x.com/B_GloriaFreitas" target="_blank"><img alt="X" src="https://img.shields.io/badge/x-%2312100E.svg?&style=for-the-badge&logo=x&logoColor=white&" /></a> 
   <a href="https://www.linkedin.com/in/belinda-g-freitas" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="https://stackoverflow.com/users/17637096/belinda-g-freitas" target="_blank"><img alt="StackOverflow" src="https://img.shields.io/badge/stackoverflow-%2312100E.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+<!--   <a href="" target="_blank"><img alt="Discord" height="30" src="https://camo.githubusercontent.com/4059d6ad920f747fcb9336726261d455f4664eb48d64553d110c5fa4c2a0a14e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646973636f72642d6461726b626c75652e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/discord-darkblue.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white" style="max-width: 100%;" /></a> -->
 </p>
 </br>
 <!-- stats -->
