@@ -7,14 +7,14 @@ I'm software engineer and I'm focused on mobile apps development now but I also 
 
 ## 💬 Like to talk about
 
+- System design 
 - Mobile apps development
-- Node.js
+- Node.js & backend
 - Desktop apps
 - Flutter & Dart
-- Postman
-- API integration
+- APIs & Postman
 - Video games
-- Food and travel
+- Food & books
 
 #### Total contributions
 
