@@ -21,12 +21,12 @@ I'm software engineer and I'm focused on mobile apps development now but I also 
 </br>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=belinda-g-freitas&hide_border=true" />
 
-#### Public contibutions in the last 365 days
+<!-- #### Public contibutions in the last 365 days -->
 
-</br>
+<!-- </br> -->
 
 <!-- ![](./profile-3d-contrib/profile-gitblock.svg) -->
-<img src="./profile-3d-contrib/profile-gitblock.svg" alt="Profile" style="width:70%; height:auto;" />
+<!-- <img src="./profile-3d-contrib/profile-gitblock.svg" alt="Profile" style="width:70%; height:auto;" /> -->
 
 </br>
 
