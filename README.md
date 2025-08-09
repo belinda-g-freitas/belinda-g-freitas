@@ -60,6 +60,7 @@ I wanted to do software engineering after high school because I loved and still 
 <!-- </div> -->
 </br>
 <b>Visitor count</b>
-<img src="https://profile-counter.glitch.me/belinda-g-freitas/count.svg" />
+![Visitor count](https://komarev.com/ghpvc/?username=belinda-g-freitas)
+<!-- <img src="https://profile-counter.glitch.me/belinda-g-freitas/count.svg" /> -->
 
 [![Bélinda's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=belinda_g_freitas)](https://github.com/anuraghazra/github-readme-stats)
