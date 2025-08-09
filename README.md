@@ -26,13 +26,13 @@ I'm software engineer and I'm focused on mobile apps development now but I also 
 </br>
 
 <!-- ![](./profile-3d-contrib/profile-gitblock.svg) -->
-<img src="./profile-3d-contrib/profile-gitblock.svg" alt="Profile" style="width:70%; height:auto;" />
+<img src="./profile-3d-contrib/profile-gitblock.svg" alt="Contributions' 3D graph" style="width:70%; height:auto;" />
 
 </br>
 
 ## 🤡 Fun fact about me
 
-I wanted to do software engineering after high school because I loved and still love playing video games, so I hoped that I could make my own games (with my own crazy features); but at the end I figured out that developing video games would tire my eyes twice (developping and then playing), and I probably won't be so excited to play my own games since I would have gotten accustomed to them during the dev proccess. So, at the end I decided to be mobile dev because it is my second favorite topic.
+I wanted to do software engineering after high school because I loved and still love playing video games, so I hoped that I could make my own games (with my own crazy features); but in the end I figured out that developing video games would tire my eyes twice (developping and then playing), and I probably won't be so excited to play my own games since I would have gotten accustomed to them during the dev proccess. So, I decided to be primarily a mobile and backend dev.
 
 <!-- [![roadmap.sh](https://roadmap.sh/card/wide/65327fe7b5d7a4eb01ea5e2e?variant=dark&roadmaps=flutter%2Cnodejs%2Cbackend%2Cjavascript)](https://roadmap.sh) -->
 
