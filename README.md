@@ -80,7 +80,7 @@ I wanted to do software engineering after high school because I loved and still 
 
 ### Coded hours
 
-![Wakatime coding activity since Nov 12 2023](https://wakatime.com/share/@belinda_g_freitas/4130ec79-f378-460d-9e2e-81592431ea28.svg)
+[![Wakatime coding activity since Nov 12 2023](https://wakatime.com/share/@belinda_g_freitas/4130ec79-f378-460d-9e2e-81592431ea28.svg)](https://wakatime.com/@018bc524-b4b4-4569-93f3-35cbcdbc3c27)
 
 ### Languages
 
