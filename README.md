@@ -36,7 +36,7 @@ I'm software engineer and I'm focused on mobile and desktop application developm
 #### Total contributions
 
 </br>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=belinda-g-freitas&hide_border=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=belinda-g-freitas&border_radius=15&date_format=j%20M%5B%20Y%5D&fire=EBD804&ring=EB1102&currStreakLabel=1773EB" alt="GitHub Streak" />
 
 <!-- #### Public contibutions in the last 365 days -->
 
