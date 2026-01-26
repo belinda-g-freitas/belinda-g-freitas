@@ -12,7 +12,7 @@
 
 <br/>
 
-I'm a software engineer and I'm focused on mobile and desktop apps development. Recently I've found myself liking APIs developement too.
+I'm a software engineer and I'm focused on mobile and desktop apps development. Recently I've found myself liking APIs developement too. Here is my <a href="https://belinda-g-freitas.github.io">portfolio</a>.
 
 ## 💬 Like to talk about
 
@@ -40,16 +40,16 @@ I wanted to do software engineering after high school because I loved and still 
 
 [![roadmap.sh](https://roadmap.sh/card/wide/65327fe7b5d7a4eb01ea5e2e?variant=dark&roadmaps=flutter%2Cnodejs%2Cbackend%2Ctypescript)](https://roadmap.sh)
 
-[![StackOverflow Stats](https://so-stats.vercel.app/api?user=17637096)](https://github.com/kurt-liao/so-stats)
+<!-- [![StackOverflow Stats](https://so-stats.vercel.app/api?user=17637096)](https://github.com/kurt-liao/so-stats) -->
 
 **👀 Visitor count**
 
 ![Visitor count](https://komarev.com/ghpvc/?username=belinda-g-freitas)
 
-## 💻 Coding stats from Wakatime since Nov 12 2023
-### 🕞 Coded hours
+## 💻 Coding stats from Wakatime
+<!-- ### 🕞 Coded hours -->
 
-<div style="overflow-x: auto; white-space: nowrap;">
+<!-- <div style="overflow-x: auto; white-space: nowrap;">
   <a href="https://wakatime.com/@018bc524-b4b4-4569-93f3-35cbcdbc3c27">
     <img
       src="https://wakatime.com/share/@belinda_g_freitas/4130ec79-f378-460d-9e2e-81592431ea28.svg"
@@ -57,9 +57,9 @@ I wanted to do software engineering after high school because I loved and still 
       style="min-width: 900px;"
     />
   </a>
-</div>
+</div> -->
 
-### 👾 Languages
+<!-- ### 👾 Languages -->
 
 <a href="https://wakatime.com/@018bc524-b4b4-4569-93f3-35cbcdbc3c27" target="_blank">
   <img height="500em" src="https://wakatime.com/share/@belinda_g_freitas/9e7631e7-52c3-49b4-b64a-0ba31245188f.svg" alt="Language time coded since Nov 12 2023" />
