@@ -36,7 +36,7 @@ I'm a software engineer and I'm focused on mobile and desktop apps development. 
 
 ## 🤡 Fun fact about me
 
-I wanted to do software engineering after high school because I loved and still love playing video games, so I hoped that I could make my own games (with my own crazy features); but in the end I figured out that developing video games would tire my eyes twice (developping and then playing), and I probably won't be so excited to play my own games since I would have gotten accustomed to them during the dev proccess. So, I decided to be primarily a mobile, desktop and backend dev.
+I wanted to study software engineering after high school because I loved and still love playing video games. I hoped to create my own games (with crazy features). But ultimately, I realized that developing video games would tire my eyes twice (developping and then playing), and I probably wouldn't be as enthusiastic about playing my own games because I would have gotten used to them during the dev proccess. So I decided to specialize in mobile and desktop apps development (since 2020), and more recently, backend development.
 
 [![roadmap.sh](https://roadmap.sh/card/wide/65327fe7b5d7a4eb01ea5e2e?variant=dark&roadmaps=flutter%2Cnodejs%2Cbackend%2Ctypescript)](https://roadmap.sh)
 
