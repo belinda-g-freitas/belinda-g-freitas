@@ -38,9 +38,9 @@ I'm a software engineer and I'm focused on mobile and desktop apps development. 
 
 I wanted to study software engineering after high school because I loved and still love playing video games. I hoped to create my own games (with crazy features). But ultimately, I realized that developing video games would tire my eyes twice (developping and then playing), and I probably wouldn't be as enthusiastic about playing my own games because I would have gotten used to them during the dev proccess. So I decided to specialize in mobile and desktop apps development (since 2020), and more recently, backend development.
 
-[![roadmap.sh](https://roadmap.sh/card/wide/65327fe7b5d7a4eb01ea5e2e?variant=dark&roadmaps=flutter%2Cnodejs%2Cbackend%2Ctypescript)](https://roadmap.sh)
+<!-- [![roadmap.sh](https://roadmap.sh/card/wide/65327fe7b5d7a4eb01ea5e2e?variant=dark&roadmaps=flutter%2Cnodejs%2Cbackend%2Ctypescript)](https://roadmap.sh) -->
 
-<!-- [![StackOverflow Stats](https://so-stats.vercel.app/api?user=17637096)](https://github.com/kurt-liao/so-stats) -->
+[![StackOverflow Stats](https://so-stats.vercel.app/api?user=17637096)](https://github.com/kurt-liao/so-stats)
 
 **👀 Visitor count**
 
