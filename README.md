@@ -17,12 +17,13 @@ I'm a software engineer and I'm focused on mobile and desktop apps development. 
 ## 💬 Like to talk about
 
 - System design
+- Software architecture
 - Flutter & Dart
 - Mobile & desktop apps development
-- Node, Nest, Express & backend
-- APIs & test
+- Node.js, Nest.js, Express.js & backend
+- APIs & tests
 - CI/CD, Docker, DevOps, DevSecOps, etc.
-- Video games, food & books
+- Video games, nature, movies, food & books
 
 #### 👷🏽‍♀️ Total contributions
 
