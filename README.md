@@ -20,7 +20,7 @@ I'm a software engineer and I'm focused on mobile and desktop apps development. 
 - Software architecture
 - Flutter & Dart
 - Mobile & desktop apps development
-- Node.js, NestJS, Express.js & backend
+- Node.js, NestJS, Express.js; .Net Core & backend
 - APIs & tests
 - CI/CD, Docker, DevOps, DevSecOps, etc.
 - Video games, nature, movies, food & books
